@@ -39,6 +39,7 @@ body {
     align-items: center;
     text-align: center;
 }
+
 .destination:hover h2 {
     transform: rotate(0deg);
 }
@@ -56,4 +57,10 @@ h2 {
 
 #paris {
     background-color: #d32f2f;
+}
+
+header {
+    background-color: steelblue;
+    font-size: 2.5rem;
+    font-family: monospace;
 }
